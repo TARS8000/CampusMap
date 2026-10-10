@@ -27,6 +27,13 @@ const campusLocations = [
   { number: 13, name: '片柳研究所棟', point: [35.62784344914419, 139.33998584747317] }
 ];
 const campusLayer = L.layerGroup().addTo(map);
+const lcIcon = L.divIcon({
+  className: 'lc-map-pin-wrapper',
+  html: '<span class="lc-map-pin"><img src="https://koukasai.jp/2026/images/uploads/LinuxClub.jpg" alt="LC"></span>',
+  iconSize: [42, 42],
+  iconAnchor: [21, 21],
+  popupAnchor: [0, -24]
+});
 const festivalEvents = []; const legacyFestivalEvents = [
   { name: '紅華祭会場 01', point: [35.62428300816012, 139.34041626176355], count: 2 },
   { name: '紅華祭会場 02', point: [35.62439411663992, 139.341538139576], count: 4 },
@@ -84,6 +91,8 @@ const eventListElement = document.querySelector('#event-list');
 const eventCountLabel = document.querySelector('#event-count-label');
 const eventSearchInput = document.querySelector('#event-search-input');
 const eventSearchClear = document.querySelector('#event-search-clear');
+const eventSchoolFilter = document.querySelector('#event-school-filter');
+const eventDayFilter = document.querySelector('#event-day-filter');
 festivalEvents.forEach((venue) => {
   const icon = L.divIcon({
     className: 'festival-map-pin-wrapper',
@@ -105,10 +114,10 @@ fetch('events.json')
   .then((response) => response.json())
   .then((festivalData) => {
     window.festivalData = festivalData;
-    renderEventList(festivalData, '');
+    renderEventList(festivalData, '', '', '');
     festivalData.venues.forEach((venue) => {
       const point = [venue.coordinates.latitude, venue.coordinates.longitude];
-      const icon = L.divIcon({
+      const icon = venue.events.some(isFeaturedEvent) ? lcIcon : L.divIcon({
         className: 'festival-map-pin-wrapper',
         html: '<span class="festival-map-pin">祭</span>',
         iconSize: [32, 32],
@@ -119,7 +128,7 @@ fetch('events.json')
         const metadata = [event.organization, ...event.categories, event.schedule || event.dates.join('・')].filter(Boolean).join(' / ');
         return `<li>${eventImageMarkup(event, 'festival-event-icon')}<span><strong>${event.title}</strong><br><small>${metadata}</small></span></li>`;
       }).join('');
-      L.marker(point, { icon })
+      L.marker(point, { icon, zIndexOffset: venue.events.some(isFeaturedEvent) ? 1000 : 0 })
         .addTo(festivalLayer)
         .bindPopup(`<strong>紅華祭｜${venue.name}</strong><ul class="festival-popup-list">${eventList}</ul>`)
         .bindTooltip(`紅華祭：${venue.name}`, { direction: 'top', offset: [0, -24] });
@@ -129,7 +138,7 @@ fetch('events.json')
     statusDetail.textContent = '紅華祭イベントデータを読み込めませんでした。';
   });
 
-function renderEventList(festivalData, query) {
+function renderEventList(festivalData, query, schoolFilter, dayFilter) {
   const normalizedQuery = query.trim().toLocaleLowerCase();
   const matchedVenues = festivalData.venues.map((venue) => ({
     ...venue,
@@ -142,13 +151,17 @@ function renderEventList(festivalData, query) {
         ...(event.dates || []),
         event.schedule
       ].filter(Boolean).join(' ').toLocaleLowerCase();
-      return !normalizedQuery || searchableText.includes(normalizedQuery);
+      const matchesQuery = !normalizedQuery || searchableText.includes(normalizedQuery);
+      const matchesSchool = !schoolFilter || getEventSchoolType(event, venue) === schoolFilter;
+      const matchesDay = !dayFilter || matchesEventDay(event, dayFilter);
+      return matchesQuery && matchesSchool && matchesDay;
     })
   })).filter((venue) => venue.events.length > 0);
   const matchedEvents = matchedVenues.reduce((total, venue) => total + venue.events.length, 0);
   const totalEvents = festivalData.venues.reduce((total, venue) => total + venue.events.length, 0);
-  eventCountLabel.textContent = normalizedQuery
-    ? `検索結果 ${matchedVenues.length}会場 / ${matchedEvents}件（全${totalEvents}件）`
+  const hasFilter = normalizedQuery || schoolFilter || dayFilter;
+  eventCountLabel.textContent = hasFilter
+    ? `絞り込み結果 ${matchedVenues.length}会場 / ${matchedEvents}件（全${totalEvents}件）`
     : `${festivalData.venues.length}会場 / ${totalEvents}イベント`;
   eventSearchClear.disabled = !normalizedQuery;
   eventListElement.innerHTML = matchedVenues.length
@@ -168,16 +181,43 @@ function eventImageMarkup(event, className) {
   return event.image ? `<img class="${className}" src="${event.image}" alt="" loading="lazy">` : '';
 }
 
+function getEventSchoolType(event, venue) {
+  const searchableText = [event.title, event.organization, venue.name, ...(event.categories || [])].filter(Boolean).join(' ');
+  return /専門学校|日本工学院|カレッジ|科(?:・|／|（|$)/.test(searchableText) ? 'specialized' : 'university';
+}
+
+function matchesEventDay(event, dayFilter) {
+  const dates = event.dates || [];
+  if (dayFilter === 'day1') return dates.includes('10/11');
+  if (dayFilter === 'day2') return dates.includes('10/12');
+  if (dayFilter === 'both') return dates.includes('10/11') && dates.includes('10/12');
+  return true;
+}
+
+function isFeaturedEvent(event) {
+  return event.title === '成果物展示会' && event.organization === 'Linux Club';
+}
+
 eventSearchInput.addEventListener('input', () => {
   if (window.festivalData) {
-    renderEventList(window.festivalData, eventSearchInput.value);
+    renderEventList(window.festivalData, eventSearchInput.value, eventSchoolFilter.value, eventDayFilter.value);
+  }
+});
+eventSchoolFilter.addEventListener('change', () => {
+  if (window.festivalData) {
+    renderEventList(window.festivalData, eventSearchInput.value, eventSchoolFilter.value, eventDayFilter.value);
+  }
+});
+eventDayFilter.addEventListener('change', () => {
+  if (window.festivalData) {
+    renderEventList(window.festivalData, eventSearchInput.value, eventSchoolFilter.value, eventDayFilter.value);
   }
 });
 eventSearchClear.addEventListener('click', () => {
   eventSearchInput.value = '';
   eventSearchInput.focus();
   if (window.festivalData) {
-    renderEventList(window.festivalData, '');
+    renderEventList(window.festivalData, '', eventSchoolFilter.value, eventDayFilter.value);
   }
 });
 

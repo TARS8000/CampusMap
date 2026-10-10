@@ -105,6 +105,23 @@
           <input id="event-search-input" type="search" placeholder="イベント名、団体名、会場名などで検索" autocomplete="off">
           <button id="event-search-clear" type="button" aria-label="検索をクリア" title="検索をクリア">×</button>
         </div>
+        <div class="event-filters">
+          <label>対象
+            <select id="event-school-filter">
+              <option value="">大学・専門すべて</option>
+              <option value="university">大学</option>
+              <option value="specialized">専門</option>
+            </select>
+          </label>
+          <label>開催日
+            <select id="event-day-filter">
+              <option value="">全日程</option>
+              <option value="day1">1日目（10/11）</option>
+              <option value="day2">2日目（10/12）</option>
+              <option value="both">両日</option>
+            </select>
+          </label>
+        </div>
       </div>
       <div id="event-list" class="event-list" aria-live="polite">イベント情報を読み込んでいます。</div>
     </section>

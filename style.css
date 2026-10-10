@@ -90,6 +90,20 @@ h1 {
   box-shadow: 0 2px 5px rgb(24 58 60 / 28%);
 }
 .campus-map-pin span { transform: rotate(45deg); }
+.lc-map-pin-wrapper { border: 0; background: transparent; }
+.lc-map-pin {
+  position: relative;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  width: 42px;
+  height: 42px;
+  border: 3px solid var(--accent);
+  border-radius: 50%;
+  background: #eaf3f8;
+  box-shadow: 0 3px 8px rgb(24 58 60 / 34%);
+}
+.lc-map-pin img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; min-width: 0; min-height: 0; object-fit: cover; mix-blend-mode: multiply; }
 .festival-map-pin-wrapper { border: 0; background: transparent; }
 .festival-map-pin {
   display: grid;
@@ -122,6 +136,10 @@ h1 {
 .search-field button { width: 40px; height: 40px; margin-right: 2px; border: 0; background: transparent; color: var(--muted); cursor: pointer; font: inherit; font-size: 1.25rem; line-height: 1; }
 .search-field button:hover, .search-field button:focus-visible { color: var(--accent); }
 .search-field button:disabled { visibility: hidden; }
+.event-filters { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+.event-filters label { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 0.72rem; font-weight: 700; }
+.event-filters select { min-height: 38px; padding: 0 30px 0 10px; border: 1px solid var(--line); border-radius: 0; background: rgb(255 255 255 / 72%); color: var(--ink); font: inherit; font-size: 0.78rem; cursor: pointer; }
+.event-filters select:focus-visible { outline: 3px solid rgb(237 121 91 / 35%); outline-offset: 2px; }
 .event-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 18px; }
 .event-venue { padding: 16px 18px; border: 1px solid var(--line); background: rgb(255 255 255 / 48%); }
 .event-venue-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding-bottom: 9px; border-bottom: 1px solid var(--line); }
