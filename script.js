@@ -96,7 +96,7 @@ const schoolBusIcon = L.divIcon({
   popupAnchor: [0, -24]
 });
 [
-  { point: [35.627075, 139.339485], label: '八王子駅行きスクールバス' },
+  { point: [35.626800, 139.339495], label: '八王子駅行きスクールバス' },
   { point: [35.625081, 139.341018], label: '八王子みなみ野駅行きスクールバス' }
 ].forEach((stop) => {
   L.marker(stop.point, { icon: schoolBusIcon, zIndexOffset: 1200 })
