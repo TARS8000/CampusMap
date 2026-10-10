@@ -87,6 +87,23 @@ const festivalEvents = []; const legacyFestivalEvents = [
 ];
 
 const festivalLayer = L.layerGroup().addTo(map);
+const schoolBusLayer = L.layerGroup().addTo(map);
+const schoolBusIcon = L.divIcon({
+  className: 'school-bus-map-pin-wrapper',
+  html: '<span class="school-bus-map-pin" aria-hidden="true">🚌</span>',
+  iconSize: [40, 40],
+  iconAnchor: [20, 20],
+  popupAnchor: [0, -24]
+});
+[
+  { point: [35.627075, 139.339485], label: '八王子駅行きスクールバス' },
+  { point: [35.625081, 139.341018], label: '八王子みなみ野駅行きスクールバス' }
+].forEach((stop) => {
+  L.marker(stop.point, { icon: schoolBusIcon, zIndexOffset: 1200 })
+    .addTo(schoolBusLayer)
+    .bindPopup(`<strong>${stop.label}</strong>`)
+    .bindTooltip(stop.label, { direction: 'top', offset: [0, -20] });
+});
 const eventListElement = document.querySelector('#event-list');
 const eventCountLabel = document.querySelector('#event-count-label');
 const eventSearchInput = document.querySelector('#event-search-input');

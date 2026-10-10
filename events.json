@@ -3,7 +3,7 @@
   "source": "2026紅華祭.txt",
   "venues": [
     {
-      "name": "片柳研究所 地下1F 視聴覚ホール",
+      "name": "片柳研究所",
       "coordinates": {
         "latitude": 35.62777007037087,
         "longitude": 139.339915745552
@@ -420,7 +420,7 @@
             "10/12"
           ],
           "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-14:40",
-          "venue": "講義実験棟1階 模擬店総選挙ブース＠Dエリア",
+          "venue": "講義実験棟1階 Dエリア",
           "image": "https://koukasai.jp/2026/images/uploads/fdec8a158bab90bca170f6d11b4f67d2.jpg"
         },
         {
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "name": "図書館棟 1階",
+      "name": "図書館棟",
       "coordinates": {
         "latitude": 35.62556867203001,
         "longitude": 139.34102126080174
@@ -872,7 +872,7 @@
       ]
     },
     {
-      "name": "体育館 稽古場AB",
+      "name": "体育館",
       "coordinates": {
         "latitude": 35.62571266678547,
         "longitude": 139.34503618763955
@@ -1074,7 +1074,7 @@
       ]
     },
     {
-      "name": "講義棟C 1F（101）、4F（401-402）、5F（501-503）",
+      "name": "講義棟C",
       "coordinates": {
         "latitude": 35.62439411663992,
         "longitude": 139.341538139576
@@ -1207,7 +1207,7 @@
       ]
     },
     {
-      "name": "スタジオ棟 4F アンサンブルスタジオ",
+      "name": "スタジオ棟",
       "coordinates": {
         "latitude": 35.62611571316914,
         "longitude": 139.34458116086884
@@ -1270,7 +1270,7 @@
       ]
     },
     {
-      "name": "研究棟B 1F 山側ピロティー",
+      "name": "研究棟B",
       "coordinates": {
         "latitude": 35.62499865170694,
         "longitude": 139.34187758782753
@@ -1641,7 +1641,7 @@
       ]
     },
     {
-      "name": "FOODS FUU 2F日本庭園側",
+      "name": "FOODS FUU 2F",
       "coordinates": {
         "latitude": 35.626779899325484,
         "longitude": 139.34223594930157
@@ -1684,7 +1684,7 @@
       ]
     },
     {
-      "name": "講義実験棟 204",
+      "name": "講義実験棟",
       "coordinates": {
         "latitude": 35.625278910512634,
         "longitude": 139.34303552466167
@@ -1968,7 +1968,7 @@
       ]
     },
     {
-      "name": "研究棟C 421",
+      "name": "研究棟C",
       "coordinates": {
         "latitude": 35.625169158559004,
         "longitude": 139.34403352722063
