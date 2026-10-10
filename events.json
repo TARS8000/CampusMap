@@ -1,0 +1,2470 @@
+{
+  "festival": "2026紅華祭",
+  "source": "2026紅華祭.txt",
+  "venues": [
+    {
+      "name": "片柳研究所 地下1F 視聴覚ホール",
+      "coordinates": {
+        "latitude": 35.62777007037087,
+        "longitude": 139.339915745552
+      },
+      "events": [
+        {
+          "id": "post-5874",
+          "title": "山寺宏一 HACHIOJI SPECIAL SESSION 2026 〜八王子から、声優の未来を拓く〜 MC：冨永みーな",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "講演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10月11日（日）開場16:30｜開演17:00（公演時間：約90分）",
+          "venue": "片柳研究所 地下1F 視聴覚ホール",
+          "image": "https://koukasai.jp/2026/images/uploads/11aaadbb1b8bdb0e0e64d4c299e4464b.png"
+        },
+        {
+          "id": "post-5002",
+          "title": "自動運転バス車両の展示",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "片柳研究所前",
+          "image": "https://koukasai.jp/2026/images/uploads/088636c5ce0fd0bc5135f4b603360e04.jpg"
+        },
+        {
+          "id": "post-5200",
+          "title": "AI・サイバーセキュリティ文化祭2026",
+          "organization": "AIシステム科／サイバーセキュリティ科（2027年度新設）",
+          "categories": [
+            "サイバーセキュリティ科",
+            "AIシステム科",
+            "テクニカルエキスパート",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "片柳研究所 14F AI実践センター",
+          "image": "https://koukasai.jp/2026/images/uploads/fc1f84b65aecb4e1f9a02b29e9c7e84b.jpg"
+        },
+        {
+          "id": "post-5271",
+          "title": "光るアクセサリーを作ろう",
+          "organization": "電子・電気科",
+          "categories": [
+            "テクニカルエキスパート",
+            "電子・電気科",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "片柳研究所 13Fエレクトロニクスラボ",
+          "image": "https://koukasai.jp/2026/images/uploads/a096394f27c8eb2ac0c181894ee61a68.jpg"
+        },
+        {
+          "id": "post-5274",
+          "title": "チリメンモンスター３～チリモンゲットだぜ！～",
+          "organization": "応用生物学科",
+          "categories": [
+            "テクニカルエキスパート",
+            "応用生物学科",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "片柳研究所 13Fバイオニクスセンター",
+          "image": "https://koukasai.jp/2026/images/uploads/bc3b8c0a4e135f9c010d6e27274bed8d.jpg"
+        },
+        {
+          "id": "post-5277",
+          "title": "HFA×テクノロジーカレッジ×ITカレッジコラボ 電動レーシングカーで経営体験！",
+          "organization": "機械設計科",
+          "categories": [
+            "テクニカルエキスパート",
+            "機械設計科",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "片柳研究所 14F AI実践センター",
+          "image": "https://koukasai.jp/2026/images/uploads/e99b41f3f4460cfad9c1f5301984cde9.jpg"
+        },
+        {
+          "id": "post-5280",
+          "title": "第６回片柳学園フレッシャーズロボットコンテスト",
+          "organization": "電子・電気科",
+          "categories": [
+            "テクニカルエキスパート",
+            "電子・電気科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）13:00-15:00",
+          "venue": "片柳研究所 1F",
+          "image": "https://koukasai.jp/2026/images/uploads/e75e06a80c39cefeaa1906959422e05c.jpg"
+        },
+        {
+          "id": "post-5128",
+          "title": "ゲーム系研究室合同展示会",
+          "organization": "三上・渡辺・安原研究室",
+          "categories": [
+            "研究室",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "片柳研究所 5階 MTC",
+          "image": "https://koukasai.jp/2026/images/uploads/52d6a5569cca54285acc9c77217953f2.jpg"
+        },
+        {
+          "id": "post-5132",
+          "title": "遺伝子編集済み細胞とゲノムDNAの操作体験＋教員・学生による研究紹介",
+          "organization": "西良太郎研究室",
+          "categories": [
+            "研究室",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-18:00",
+          "venue": "片柳研究所 KC901",
+          "image": "https://koukasai.jp/2026/images/uploads/553c60d4af06a94886de24f90109ab2d.jpg"
+        },
+        {
+          "id": "post-5134",
+          "title": "コエンザイムQ10の酸化還元を見てみよう",
+          "organization": "岡本瑞穂研究室",
+          "categories": [
+            "研究室",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-18:00",
+          "venue": "片柳研究所 KC907",
+          "image": "https://koukasai.jp/2026/images/uploads/3c6a14237f456e2a3b67323b06a47871.jpg"
+        },
+        {
+          "id": "post-5656",
+          "title": "表彰式&展示会",
+          "organization": "小学生SDGsコンテスト2026",
+          "categories": [
+            "研究室"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）表彰式10:30-11:30｜展示会10:00-17:00",
+          "venue": "片柳研究所 1Fロビー",
+          "image": "https://koukasai.jp/2026/images/uploads/SDGS.png"
+        },
+        {
+          "id": "post-6013",
+          "title": "スパイ入門 -VIVANTの真実とフィクション-",
+          "organization": "東京工科大学 公開講座",
+          "categories": [
+            "研究室",
+            "メインイベント"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）14:30-15:10",
+          "venue": "片柳研究所棟402",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "メインステージ",
+      "coordinates": {
+        "latitude": 35.62586892996602,
+        "longitude": 139.34148859795766
+      },
+      "events": [
+        {
+          "id": "post-6044",
+          "title": "ギリギリの差を見抜け！ スケールジャッジ！",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "メインイベント",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-11:50",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/d6978dbb14bfb322bd5b18a92b458124.png"
+        },
+        {
+          "id": "post-6042",
+          "title": "ジェネレーションギャップを超えろ！ 三世代クイズ",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "メインイベント",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）11:40-12:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/688a73aae37370267f6cd449f862e511.png"
+        },
+        {
+          "id": "post-6040",
+          "title": "エンディング抽選会",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "メインイベント",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）15:40-16:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        },
+        {
+          "id": "post-4920",
+          "title": "あかぴライブ （メインステージ）",
+          "organization": "赤平",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）12:40-13:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/44970e1d1b6ff589e35263da6b703bbc.jpg"
+        },
+        {
+          "id": "post-4922",
+          "title": "Tec Academy & Dancing Company Dance Showcase",
+          "organization": "Tec Academy",
+          "categories": [
+            "サークル・有志団体",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）14:40-15:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/TecAcademy.jpeg"
+        },
+        {
+          "id": "post-4934",
+          "title": "紅華祭ライブ （メインステージ）",
+          "organization": "軽音楽部",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）10:00-11:15",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/db5e8bfc1922970611ad232d077856ba.jpg"
+        },
+        {
+          "id": "post-4955",
+          "title": "紅華祭ステージライブ （メインステージ）",
+          "organization": "サウンドジェネシス",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）14:45-16:00",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/3ed183603854aff8eb678dc9abdb8d5e.jpeg"
+        },
+        {
+          "id": "post-4957",
+          "title": "メインステージ撮影",
+          "organization": "intebro",
+          "categories": [
+            "サークル・有志団体",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/intebro.jpg"
+        },
+        {
+          "id": "post-4967",
+          "title": "昼の踊り子",
+          "organization": "EventLayers",
+          "categories": [
+            "サークル・有志団体",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）12:00-12:50",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/cbe9f42687d06da1470a859ca285616d.jpg"
+        },
+        {
+          "id": "post-4979",
+          "title": "Jaclive! （メインステージ）",
+          "organization": "総合音楽部Jacla",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）13:15-14:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/Jacla.jpg"
+        },
+        {
+          "id": "post-4986",
+          "title": "Technoboo RAVE floor （メインステージ）",
+          "organization": "テクノ同好会",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）13:40-14:30",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/33d76a9393ad098277c226d8c6130f36.jpeg"
+        },
+        {
+          "id": "post-5658",
+          "title": "中夜祭〜sidenerds〜",
+          "organization": "Advanced Creators",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）16:40-17:20",
+          "venue": "メインステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "講義実験棟1階 模擬店総選挙ブース＠Dエリア",
+      "coordinates": {
+        "latitude": 35.62552725248436,
+        "longitude": 139.3428766623677
+      },
+      "events": [
+        {
+          "id": "post-6119",
+          "title": "模擬店総選挙",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "メインイベント"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-14:40",
+          "venue": "講義実験棟1階 模擬店総選挙ブース＠Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/fdec8a158bab90bca170f6d11b4f67d2.jpg"
+        },
+        {
+          "id": "post-5103",
+          "title": "うめぇ唐良し（唐揚げ）",
+          "organization": "空手道部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/98eb027a8eb2134f52e48f64431d46d0.jpg"
+        },
+        {
+          "id": "post-5062",
+          "title": "チュロス",
+          "organization": "チュロ☆STAR",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/6c73e39fbebf8b52da688a29ae04f342.jpg"
+        },
+        {
+          "id": "post-5087",
+          "title": "一球タコん（たこ焼き）",
+          "organization": "メディアの寄せ集め",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア"
+        },
+        {
+          "id": "post-5052",
+          "title": "LCCハンドクリーム",
+          "organization": "化粧品研究サークルLCC",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/89ce2528f418ba344c619da45348c826.jpeg"
+        },
+        {
+          "id": "post-5048",
+          "title": "きゅん♡ドリ（ドリンク）",
+          "organization": "化粧品研究サークルLCC",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/3ce4222570a329ccea120083c2007151.jpeg"
+        },
+        {
+          "id": "post-5045",
+          "title": "Mignon クレープ",
+          "organization": "化粧品研究サークルLCC",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/a1fa982d414a0f819d44d4d1ba89513f.jpeg"
+        },
+        {
+          "id": "post-5112",
+          "title": "さいころステーキ",
+          "organization": "軽音学部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/4daf8c69344f793d691f1b6d4970256f.jpg"
+        },
+        {
+          "id": "post-5117",
+          "title": "ラケットより五平餅",
+          "organization": "WIZARD",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/3b42e13064d9c83381ad79f5b37e3810.jpg"
+        },
+        {
+          "id": "post-5016",
+          "title": "味は世界一の焼きそば",
+          "organization": "バドミントン部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア"
+        },
+        {
+          "id": "post-5110",
+          "title": "小籠包はじめました。",
+          "organization": "不器用軒",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア"
+        },
+        {
+          "id": "post-5119",
+          "title": "シュワシュワカラフルソーダ（炭酸ドリンク）",
+          "organization": "アゲアゲ大学生",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア"
+        },
+        {
+          "id": "post-5079",
+          "title": "紅華祭はチュロスとトモにⒸ",
+          "organization": "東京節電大学",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/c6c19231f4172ddc18b52b6d645b24a3.jpg"
+        },
+        {
+          "id": "post-6113",
+          "title": "tepicorn",
+          "organization": "スポーツ健康学科インストラクターコース3年",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/CD46E7DC-42EB-4ACB-AF7D-336BA8DAE507.png"
+        },
+        {
+          "id": "post-5388",
+          "title": "おいしい焼きそば屋さん",
+          "organization": "写真部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/94e00854c390bc80b348e371577faeda-1.jpg"
+        },
+        {
+          "id": "post-5035",
+          "title": "クリエのケセランパサラン綿菓子（わたあめ）",
+          "organization": "クリエイティブスタッフ",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/156323c8daf769ef10408e9d74dee052.png"
+        },
+        {
+          "id": "post-5060",
+          "title": "超お好み焼き！（豚玉）",
+          "organization": "intebro",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/intebro.jpg"
+        },
+        {
+          "id": "post-5025",
+          "title": "団子（あんこ・みたらし・味噌・きなこ・黒ごま）",
+          "organization": "天文サークル 月より団子",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Dエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/1f0628a34d5689c0f5d482c0307f21aa.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "図書館棟 1階",
+      "coordinates": {
+        "latitude": 35.62556867203001,
+        "longitude": 139.34102126080174
+      },
+      "events": [
+        {
+          "id": "post-6058",
+          "title": "高校生受付・入学相談コーナー （高校生限定お楽しみチケット配布中！）",
+          "organization": "日本工学院八王子専門学校",
+          "categories": [
+            "入試／案内"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-16:00",
+          "venue": "図書館棟 1階",
+          "image": "https://koukasai.jp/2026/images/uploads/042ee733abbb799933fd0a79ff4c5a58.jpg"
+        },
+        {
+          "id": "post-6060",
+          "title": "入学希望者向けキャンパスツアー",
+          "organization": "日本工学院八王子専門学校",
+          "categories": [
+            "入試／案内"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "開催時間は当日受付にてお知らせします（所要時間約40分）。",
+          "venue": "図書館棟 1階",
+          "image": "https://koukasai.jp/2026/images/uploads/3f71a0a236995fbbe3a42af8cf1835ce.jpg"
+        },
+        {
+          "id": "post-6063",
+          "title": "高大専連携校紹介コーナー",
+          "organization": "日本工学院八王子専門学校 広報部",
+          "categories": [
+            "入試／案内"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00 ｜10/12（月祝）11:00-16:00",
+          "venue": "図書館棟1階",
+          "image": "https://koukasai.jp/2026/images/uploads/IMG_2949-e1791187347181.jpeg"
+        },
+        {
+          "id": "post-6051",
+          "title": "高大専連携校紹介コーナー",
+          "organization": "東京工科大学 広報部",
+          "categories": [
+            "入試／大学案内",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00 ｜10/12（月祝）11:00-16:00",
+          "venue": "図書館棟1階",
+          "image": "https://koukasai.jp/2026/images/uploads/IMG_2949-e1791187347181.jpeg"
+        },
+        {
+          "id": "post-6055",
+          "title": "入学希望者向けキャンパスツアー",
+          "organization": "東京工科大学 広報部",
+          "categories": [
+            "入試／大学案内",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "開催時間は当日受付にてお知らせします（所要時間約40分）。",
+          "venue": "図書館棟 1階",
+          "image": "https://koukasai.jp/2026/images/uploads/3f71a0a236995fbbe3a42af8cf1835ce.jpg"
+        },
+        {
+          "id": "post-6065",
+          "title": "高校生受付・入学相談コーナー （高校生限定お楽しみチケット配布中！）",
+          "organization": "東京工科大学",
+          "categories": [
+            "入試／大学案内",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-16:00",
+          "venue": "図書館棟 1階",
+          "image": "https://koukasai.jp/2026/images/uploads/042ee733abbb799933fd0a79ff4c5a58.jpg"
+        }
+      ]
+    },
+    {
+      "name": "厚生棟 2F 出口前広場",
+      "coordinates": {
+        "latitude": 35.62605869896041,
+        "longitude": 139.3419923650103
+      },
+      "events": [
+        {
+          "id": "post-5326",
+          "title": "若きつくりびとSHOP",
+          "organization": "日本工学院八王子専門学校",
+          "categories": [
+            "目玉イベント",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-｜10/11（日）10:00- ※なくなり次第終了",
+          "venue": "厚生棟 2F 出口前広場",
+          "image": "https://koukasai.jp/2026/images/uploads/30fc7c5218b28264f241eecaa532a22f.jpg"
+        },
+        {
+          "id": "post-5220",
+          "title": "マンガ・アニメーション科 4年生 卒展作品展用企画書展示",
+          "organization": "マンガ・アニメーション科四年制",
+          "categories": [
+            "マンガ・アニメーション科",
+            "クリエイター&パフォーマー",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜ 10/12（月祝）10:00-16:00",
+          "venue": "厚生棟1F ロビー",
+          "image": "https://koukasai.jp/2026/images/uploads/499c11b5e46f246e51773644db732160.jpg"
+        },
+        {
+          "id": "post-5223",
+          "title": "1年次成果発表：イラスト展示",
+          "organization": "マンガ・アニメーション科",
+          "categories": [
+            "マンガ・アニメーション科",
+            "クリエイター&パフォーマー",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜ 10/12（月祝）10:00-16:00",
+          "venue": "厚生棟1F ロビー",
+          "image": "https://koukasai.jp/2026/images/uploads/719c8f67ce0b1cfe774e7c0ddadba142.jpg"
+        },
+        {
+          "id": "post-4948",
+          "title": "ボードゲーム体験会",
+          "organization": "ボードゲーム&TRPG研究会Level.1",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "厚生棟 3F図書館棟側",
+          "image": "https://koukasai.jp/2026/images/uploads/Level1.png"
+        },
+        {
+          "id": "post-4952",
+          "title": "紅華レールウェイスクエア",
+          "organization": "鉄道交通研究同好会",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "厚生棟 3F総合グラウンド側",
+          "image": "https://koukasai.jp/2026/images/uploads/5f21b8f9f401211b3e6180912631955d.png"
+        }
+      ]
+    },
+    {
+      "name": "体育館 稽古場AB",
+      "coordinates": {
+        "latitude": 35.62571266678547,
+        "longitude": 139.34503618763955
+      },
+      "events": [
+        {
+          "id": "post-5204",
+          "title": "声優コース成果発表 朗読劇「GIVE ME MONEY〜部費は僕らの手の中！」",
+          "organization": "声優・演劇科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "声優・演劇科",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）①12:00- ②14:00-",
+          "venue": "体育館 稽古場AB",
+          "image": "https://koukasai.jp/2026/images/uploads/a596fc55c91a4350ee855d1dead0ffce.jpg"
+        },
+        {
+          "id": "post-5309",
+          "title": "CLUB DP in 紅華祭 （DAY 2）",
+          "organization": "ダンスパフォーマンス科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "ダンスパフォーマンス科",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）13:00-16:00",
+          "venue": "体育館棟 GEM STONE STUDIO",
+          "image": "https://koukasai.jp/2026/images/uploads/868e96834ac97a14ddccfd829ee0643c.jpeg"
+        },
+        {
+          "id": "post-5225",
+          "title": "バスケットボール１DAYトーナメント",
+          "organization": "スポーツ健康学科",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "スポーツ"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）9:00-17:00",
+          "venue": "体育館 アリーナ",
+          "image": "https://koukasai.jp/2026/images/uploads/8153a2a0119da62ab0a719bcb7f46e50.jpg"
+        },
+        {
+          "id": "post-5246",
+          "title": "パートナーストレッチ",
+          "organization": "スポーツトレーナー科",
+          "categories": [
+            "スポーツトレーナー科",
+            "プロフェッショナルスタッフ",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-14:00",
+          "venue": "体育館 MFCトレーナーズルーム",
+          "image": "https://koukasai.jp/2026/images/uploads/bc50a10e2455a3a585215770bc1f8c3e.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "C&T 36A・36B",
+      "coordinates": {
+        "latitude": 35.62484745168971,
+        "longitude": 139.34019367253512
+      },
+      "events": [
+        {
+          "id": "post-5207",
+          "title": "ポスター展示 『DRIVE OUR IMAGINATION ー想像力を、走らせろー』 &マンガ作品展示",
+          "organization": "マンガ・アニメーション科・マンガ・アニメーション科四年制",
+          "categories": [
+            "マンガ・アニメーション科",
+            "クリエイター&パフォーマー",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜ 10/12（月祝）10:00-16:00",
+          "venue": "C&T 36A・36B",
+          "image": "https://koukasai.jp/2026/images/uploads/2a6e60d06623ef78c1f383292d878e1f.jpg"
+        },
+        {
+          "id": "post-5217",
+          "title": "アニメーション作品展示",
+          "organization": "マンガ・アニメーション科／マンガ・アニメーション科四年制",
+          "categories": [
+            "マンガ・アニメーション科",
+            "クリエイター&パフォーマー",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜ 10/12（月祝）10:00-16:00",
+          "venue": "C&T 35実習室",
+          "image": "https://koukasai.jp/2026/images/uploads/ca97dd42587f282c5fe5ae28a50e3660.jpg"
+        },
+        {
+          "id": "post-5296",
+          "title": "ゲームクリエイター科作品展示会2026",
+          "organization": "ゲームクリエイター科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "ゲームクリエイター科",
+            "展示／発表",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "C&T 27・28",
+          "image": "https://koukasai.jp/2026/images/uploads/ec4abf96067c4d04d7305c6520112ae7.jpg"
+        },
+        {
+          "id": "post-5299",
+          "title": "2026年前期CG作品展示",
+          "organization": "CG映像科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "CG映像科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "C&T 31-33",
+          "image": "https://koukasai.jp/2026/images/uploads/b0e3dab2a4cffe30290fc65c13094dc7.jpg"
+        },
+        {
+          "id": "post-5317",
+          "title": "Create the Sound",
+          "organization": "ミュージックアーティスト科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "ミュージックアーティスト科",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-16:00",
+          "venue": "C&T 実習室 CT23 , CT24 , R-Studio",
+          "image": "https://koukasai.jp/2026/images/uploads/edee653408cb7f749b94384d476b45e6.jpg"
+        },
+        {
+          "id": "post-5229",
+          "title": "認定実技審査について",
+          "organization": "柔道整復科",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "柔道整復科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-15:00",
+          "venue": "C&T 4F",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        },
+        {
+          "id": "post-5242",
+          "title": "耳つぼセルフケア＆ジュエリー作り",
+          "organization": "鍼灸科",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "鍼灸科",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:30-15:30｜10/12（月祝）10:30-15:30",
+          "venue": "C&T 4F鍼灸科実習室",
+          "image": "https://koukasai.jp/2026/images/uploads/d2eb34153286918229766454bb61d118.jpg"
+        }
+      ]
+    },
+    {
+      "name": "講義棟C 1F（101）、4F（401-402）、5F（501-503）",
+      "coordinates": {
+        "latitude": 35.62439411663992,
+        "longitude": 139.341538139576
+      },
+      "events": [
+        {
+          "id": "post-5289",
+          "title": "デザイン科秋季作品展2026",
+          "organization": "デザイン科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "デザイン科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）13:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "講義棟C 1F（101）、4F（401-402）、5F（501-503）"
+        },
+        {
+          "id": "post-5293",
+          "title": "ミライデザイナーフェス2026",
+          "organization": "デザイン科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "デザイン科",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "講義棟C 1Fピロティ",
+          "image": "https://koukasai.jp/2026/images/uploads/7ea6b0fdfb8b78a335b56e94151db3cb.png"
+        },
+        {
+          "id": "post-5653",
+          "title": "美術部-作品展-2026",
+          "organization": "美術部",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日） 12:00-16:00｜10/12（月祝）11:00-16:00",
+          "venue": "講義棟C 407, 408",
+          "image": "https://koukasai.jp/2026/images/uploads/b68f4256b3e28cc2bc5e1ebb01c4234a.jpg"
+        },
+        {
+          "id": "post-4946",
+          "title": "化学実験教室",
+          "organization": "化学サークル",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-16:00",
+          "venue": "片柳研究所棟 7F学生実験室",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "片柳記念ホール",
+      "coordinates": {
+        "latitude": 35.624465084031165,
+        "longitude": 139.3426767980478
+      },
+      "events": [
+        {
+          "id": "post-5312",
+          "title": "CLUB DP in 紅華祭 （DAY 1）",
+          "organization": "ダンスパフォーマンス科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "ダンスパフォーマンス科",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）14:15-15:15",
+          "venue": "片柳記念ホール",
+          "image": "https://koukasai.jp/2026/images/uploads/868e96834ac97a14ddccfd829ee0643c.jpeg"
+        },
+        {
+          "id": "post-5302",
+          "title": "八王子大作戦",
+          "organization": "コンサート・イベント科",
+          "categories": [
+            "コンサート・イベント科",
+            "プロフェッショナルスタッフ",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）11:40-17:00（ステージは13:00よりスタート）",
+          "venue": "片柳記念ホール、片柳記念ホール前野外ステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/23c85063464a566d0e815cecc3424baf.jpg"
+        },
+        {
+          "id": "post-5305",
+          "title": "AKI FES 2026",
+          "organization": "コンサート・イベント科",
+          "categories": [
+            "コンサート・イベント科",
+            "プロフェッショナルスタッフ",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）12:30-17:00",
+          "venue": "片柳記念ホール前野外特設ステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/26bcc0ff317e338650d2ab40f2e19654.jpg"
+        }
+      ]
+    },
+    {
+      "name": "スタジオ棟 4F アンサンブルスタジオ",
+      "coordinates": {
+        "latitude": 35.62611571316914,
+        "longitude": 139.34458116086884
+      },
+      "events": [
+        {
+          "id": "post-5314",
+          "title": "Cover Showcase 2026",
+          "organization": "ミュージックアーティスト科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "ミュージックアーティスト科",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/12（月祝）10:00-16:00",
+          "venue": "スタジオ棟 4F アンサンブルスタジオ",
+          "image": "https://koukasai.jp/2026/images/uploads/39d586f894314fe14b7e9b2fdd3506db.jpeg"
+        },
+        {
+          "id": "post-5320",
+          "title": "スタジオで「音」を遊び尽くせ！",
+          "organization": "音響芸術科",
+          "categories": [
+            "クリエイター&パフォーマー",
+            "音響芸術科",
+            "音楽",
+            "ライブ／公演",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-16:00｜10/11（日）11:00-16:00",
+          "venue": "KCfDA スタジオ棟1階 レコーディングスタジオA・B・C・D／プレビュールーム",
+          "image": "https://koukasai.jp/2026/images/uploads/140adf5a969595227f26c2d3fc847690.jpg"
+        },
+        {
+          "id": "post-5211",
+          "title": "放芸過ぎて滅！ （スタジオ棟）",
+          "organization": "放送芸術科",
+          "categories": [
+            "放送・映像科",
+            "プロフェッショナルスタッフ",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）12:00-16:00｜ 10/12（月祝）12:00-16:00",
+          "venue": "スタジオ棟1F デジタルオープンスタジオ",
+          "image": "https://koukasai.jp/2026/images/uploads/8b759dc83b455ff793b855a7b11957cb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "研究棟B 1F 山側ピロティー",
+      "coordinates": {
+        "latitude": 35.62499865170694,
+        "longitude": 139.34187758782753
+      },
+      "events": [
+        {
+          "id": "post-5214",
+          "title": "放芸過ぎて滅！ （研究棟）",
+          "organization": "放送芸術科",
+          "categories": [
+            "放送・映像科",
+            "プロフェッショナルスタッフ",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）12:00-16:00｜ 10/12（月祝）12:00-16:00",
+          "venue": "研究棟B 1F 山側ピロティー",
+          "image": "https://koukasai.jp/2026/images/uploads/8b759dc83b455ff793b855a7b11957cb.jpg"
+        },
+        {
+          "id": "post-5238",
+          "title": "アドベンチャー ガラポンラリー！！",
+          "organization": "スポーツ健康学科3年制",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "研究棟B 4Fドーナツラウンジ",
+          "image": "https://koukasai.jp/2026/images/uploads/6f7dedc97455765bee884130d03b8d8c.jpg"
+        },
+        {
+          "id": "post-5194",
+          "title": "作品発表",
+          "organization": "ITスペシャリスト科・情報処理科・ネットワークセキュリティ科",
+          "categories": [
+            "サイバーセキュリティ科",
+            "ITスペシャリスト科",
+            "テクニカルエキスパート",
+            "情報処理科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "研究棟B 601-603",
+          "image": "https://koukasai.jp/2026/images/uploads/7c0d457556333aed97b7bfd7121c0ba7.jpg"
+        },
+        {
+          "id": "post-5197",
+          "title": "アトラクションゲームでお菓子をGET！",
+          "organization": "情報ビジネス科",
+          "categories": [
+            "テクニカルエキスパート",
+            "情報処理科",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）11:00-16:00",
+          "venue": "研究棟B 604",
+          "image": "https://koukasai.jp/2026/images/uploads/ee2a236412238c1e7c9024e69921885b.jpg"
+        }
+      ]
+    },
+    {
+      "name": "メディアホール",
+      "coordinates": {
+        "latitude": 35.62428300816012,
+        "longitude": 139.34041626176355
+      },
+      "events": [
+        {
+          "id": "post-5231",
+          "title": "ベストなボディコンテスト2026",
+          "organization": "スポーツトレーナー科（三年制含）／スポーツ健康学科（三年制含）",
+          "categories": [
+            "スポーツトレーナー科",
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "ライブ／公演",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）13:00-16:00",
+          "venue": "メディアホール",
+          "image": "https://koukasai.jp/2026/images/uploads/40d2799dfc24131280cfdfae0c6931ad.jpg"
+        },
+        {
+          "id": "post-5253",
+          "title": "フィットネス（キッズダンス・ZUMBA®︎・ブレイクダンス）",
+          "organization": "スポーツ健康学科／スポーツ健康学科三年制",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）12:00-16:00",
+          "venue": "メディアホール",
+          "image": "https://koukasai.jp/2026/images/uploads/a870e9407813eabf13933845c478d0d7.jpg"
+        },
+        {
+          "id": "post-5283",
+          "title": "建築家講演会 「身体と世界を紡ぐ建築」",
+          "organization": "建築学科／建築設計科",
+          "categories": [
+            "テクニカルエキスパート",
+            "建築学科／建築設計科",
+            "講演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）10:00-11:30",
+          "venue": "メディアホール",
+          "image": "https://koukasai.jp/2026/images/uploads/c534688d6ed23be5d71fbbbb0dfe513a.jpg"
+        },
+        {
+          "id": "post-6047",
+          "title": "2028年4月設置構想中 デジタルエンターテインメント学部（仮称）説明会",
+          "organization": "東京工科大学",
+          "categories": [
+            "入試／大学案内",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）13:15-14:15",
+          "venue": "メディアホール",
+          "image": "https://koukasai.jp/2026/images/uploads/e45d68e6ac929bd1795525465a7ec707-scaled.jpg"
+        },
+        {
+          "id": "post-6049",
+          "title": "推薦入試&一般選抜説明会＋受験対策講演 （事前申し込み制）",
+          "organization": "東京工科大学",
+          "categories": [
+            "入試／大学案内",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）入試説明＋対策講演 11:30-12:50 ｜入試個別相談 11:30-14:00",
+          "venue": "メディアホール",
+          "image": "https://koukasai.jp/2026/images/uploads/2776a998a13956b7f1e8bca993715c69.jpg"
+        }
+      ]
+    },
+    {
+      "name": "総合グラウンド",
+      "coordinates": {
+        "latitude": 35.626817322059665,
+        "longitude": 139.34364340804825
+      },
+      "events": [
+        {
+          "id": "post-5235",
+          "title": "サッカーコース公式戦及び練習試合",
+          "organization": "スポーツ健康学科3年制",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "スポーツ"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）9:00-17:00｜10/12（月祝）9:00-16:00",
+          "venue": "総合グラウンド",
+          "image": "https://koukasai.jp/2026/images/uploads/b33707cc4e6c5e4f4f8a2af3c8f1a48e.jpeg"
+        },
+        {
+          "id": "post-5256",
+          "title": "サッカーコース20周年記念イベント【BEYOND 20】",
+          "organization": "スポーツ健康学科",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "スポーツ"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）10:00-17:00",
+          "venue": "総合グラウンド",
+          "image": "https://koukasai.jp/2026/images/uploads/8df55c8cd1fc4670830b69f4a26bc3ea.jpg"
+        }
+      ]
+    },
+    {
+      "name": "テニスコート",
+      "coordinates": {
+        "latitude": 35.626450815498394,
+        "longitude": 139.34527634716463
+      },
+      "events": [
+        {
+          "id": "post-5250",
+          "title": "わくわくテニスランド",
+          "organization": "スポーツ健康学科／スポーツ健康学科三年制",
+          "categories": [
+            "プロフェッショナルスタッフ",
+            "スポーツ健康学科",
+            "交流／体験"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "テニスコート",
+          "image": "https://koukasai.jp/2026/images/uploads/748436fe279287a1458615a464c91c3f.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Architect Builder Studio Aスタジオ",
+      "coordinates": {
+        "latitude": 35.62542654657374,
+        "longitude": 139.33991713639014
+      },
+      "events": [
+        {
+          "id": "post-5265",
+          "title": "もてなすあかり展",
+          "organization": "建築学科／建築設計科",
+          "categories": [
+            "テクニカルエキスパート",
+            "建築学科／建築設計科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）13:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "Architect Builder Studio Aスタジオ",
+          "image": "https://koukasai.jp/2026/images/uploads/48d99297ec97517bc2cd9e362de16d66-scaled.jpg"
+        },
+        {
+          "id": "post-5268",
+          "title": "前期設計課題 優秀作品講評会",
+          "organization": "建築学科／建築設計科",
+          "categories": [
+            "テクニカルエキスパート",
+            "建築学科／建築設計科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）9:30-12:30",
+          "venue": "Architect Builder Studio Bスタジオ",
+          "image": "https://koukasai.jp/2026/images/uploads/79c0397dd3ba4de942b31d60dae1f750.jpg"
+        },
+        {
+          "id": "post-5286",
+          "title": "考え、つくり、社会とつながる — 建築サークル活動展",
+          "organization": "建築学科／建築設計科",
+          "categories": [
+            "テクニカルエキスパート",
+            "建築学科／建築設計科",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）13:00-16:00｜10/12（月祝）10:00-15:00",
+          "venue": "Architect Builder Studio エントランスホール",
+          "image": "https://koukasai.jp/2026/images/uploads/ca1808b87921972c5ffee252e834a613.jpg"
+        }
+      ]
+    },
+    {
+      "name": "サークルステージ",
+      "coordinates": {
+        "latitude": 35.62718082174156,
+        "longitude": 139.34187285209848
+      },
+      "events": [
+        {
+          "id": "post-5514",
+          "title": "紅華祭特別ライブ（1日目） ルーズスキン／Lightning HOPE",
+          "organization": "ニコカル",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）14:25-15:05",
+          "venue": "サークルステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/980e114b110a9983c7f40042fc425e2e.jpg"
+        },
+        {
+          "id": "post-5518",
+          "title": "紅華祭特別ライブ（2日目） KOH／Technique Break",
+          "organization": "ニコカル",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/12"
+          ],
+          "schedule": "10/12（月祝）10:45-11:20",
+          "venue": "サークルステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/980e114b110a9983c7f40042fc425e2e.jpg"
+        },
+        {
+          "id": "post-4998",
+          "title": "紅華祭ライブ （サークルステージ）",
+          "organization": "軽音楽部",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）13:00-14:15｜10/12（月祝）14:15-15:40",
+          "venue": "サークルステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/db5e8bfc1922970611ad232d077856ba.jpg"
+        },
+        {
+          "id": "post-5660",
+          "title": "紅華祭ステージライブ （サークルステージ）",
+          "organization": "サウンドジェネシス",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-12:30｜10/12（月祝）11:50-14:05",
+          "venue": "サークルステージ",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "FOODS FUU 2F日本庭園側",
+      "coordinates": {
+        "latitude": 35.626779899325484,
+        "longitude": 139.34223594930157
+      },
+      "events": [
+        {
+          "id": "post-4918",
+          "title": "演奏会",
+          "organization": "吹奏楽団",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）12:30-14:00｜10/12（月祝）12:30-14:00",
+          "venue": "FOODS FUU 2F日本庭園側",
+          "image": "https://koukasai.jp/2026/images/uploads/a32745e2febc212ce342cbb8eb936323.jpg"
+        },
+        {
+          "id": "post-4930",
+          "title": "紅華祭アンサンブル公演",
+          "organization": "クロイツェル室内管弦楽団",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）14:00-15:00｜10/12（月祝）14:00-15:00",
+          "venue": "FOODS FUU 2F総合グラウンド側",
+          "image": "https://koukasai.jp/2026/images/uploads/8f73c39b131db58bf511874c167bb136.png"
+        }
+      ]
+    },
+    {
+      "name": "講義実験棟 204",
+      "coordinates": {
+        "latitude": 35.625278910512634,
+        "longitude": 139.34303552466167
+      },
+      "events": [
+        {
+          "id": "post-4924",
+          "title": "ゲーセンSOUNDIX",
+          "organization": "SOUNDIX",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟 204",
+          "image": "https://koukasai.jp/2026/images/uploads/SOUNDIX.png"
+        },
+        {
+          "id": "post-4936",
+          "title": "インスタレーション展",
+          "organization": "プロ演 インスタレーション",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）11:00-17:00",
+          "venue": "講義実験棟 202",
+          "image": "https://koukasai.jp/2026/images/uploads/1a62b2c7bbf4968e92af4973423f34a1.jpg"
+        },
+        {
+          "id": "post-4943",
+          "title": "Cinema Gallery『maho-Lab』",
+          "organization": "映画研究サークル『mahoroba』",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟 203",
+          "image": "https://koukasai.jp/2026/images/uploads/mahoroba.jpg"
+        },
+        {
+          "id": "post-4951",
+          "title": "ロボ研フェスタ",
+          "organization": "ロボット研究部",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟 103,104",
+          "image": "https://koukasai.jp/2026/images/uploads/c8aad7b6cf2530b85ec83191ffcb9d8f.jpg"
+        },
+        {
+          "id": "post-4972",
+          "title": "合同展示会",
+          "organization": "美術俱楽部×Creation",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟 201",
+          "image": "https://koukasai.jp/2026/images/uploads/Creation.png"
+        },
+        {
+          "id": "post-4988",
+          "title": "学生が作ったゲーム遊び放題!? クリエイティブスタッフの展示会",
+          "organization": "クリエイティブスタッフ",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟 208",
+          "image": "https://koukasai.jp/2026/images/uploads/crativestaff-e1789444356409.png"
+        },
+        {
+          "id": "post-5992",
+          "title": "ミニゲーム",
+          "organization": "紅華祭実行委員会",
+          "categories": [
+            "サークル・有志団体"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義実験棟1階 101, 102",
+          "image": "https://koukasai.jp/2026/images/uploads/161978b92a2f7e8db2306decb6bfda4b.png"
+        }
+      ]
+    },
+    {
+      "name": "研究棟A 303",
+      "coordinates": {
+        "latitude": 35.62533592873059,
+        "longitude": 139.34233758667145
+      },
+      "events": [
+        {
+          "id": "post-4959",
+          "title": "成果物展示会",
+          "organization": "Linux Club",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "研究棟A 303",
+          "image": "https://koukasai.jp/2026/images/uploads/LinuxClub.jpg"
+        },
+        {
+          "id": "post-4977",
+          "title": "時間の欠片、集めました。",
+          "organization": "写真部",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "研究棟A 4Fドーナツラウンジ",
+          "image": "https://koukasai.jp/2026/images/uploads/94e00854c390bc80b348e371577faeda.jpg"
+        },
+        {
+          "id": "post-4990",
+          "title": "あかぴライブ（研究棟A）",
+          "organization": "赤平",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11"
+          ],
+          "schedule": "10/11（日）12:00-14:00",
+          "venue": "研究棟A 502",
+          "image": "https://koukasai.jp/2026/images/uploads/1199fc75637a6d4db1427a68ce003f27.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "講義棟A 203",
+      "coordinates": {
+        "latitude": 35.62573128843004,
+        "longitude": 139.34270351221915
+      },
+      "events": [
+        {
+          "id": "post-4962",
+          "title": "うきうきポケモン広場",
+          "organization": "ポケモンサークルてうぽけ",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義棟A 203",
+          "image": "https://koukasai.jp/2026/images/uploads/e64ef4a24153a7332fad78bc7242f7f7.png"
+        },
+        {
+          "id": "post-4974",
+          "title": "映像研劇場",
+          "organization": "映像制作サークル",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義棟A 204",
+          "image": "https://koukasai.jp/2026/images/uploads/1c70c4623cb6fd8f944063a488ca0db2.jpg"
+        },
+        {
+          "id": "post-4981",
+          "title": "Eスポーツ体験会",
+          "organization": "E-Sportsサークル A2Z",
+          "categories": [
+            "サークル・有志団体",
+            "交流／体験",
+            "ゲーム"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義棟A 201",
+          "image": "https://koukasai.jp/2026/images/uploads/A2Z.jpg"
+        },
+        {
+          "id": "post-4926",
+          "title": "Technoboo BOX floor （講義棟）",
+          "organization": "テクノ同好会",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）14:00-18:00｜10/12（月祝）15:00-17:00",
+          "venue": "講義棟A 202",
+          "image": "https://koukasai.jp/2026/images/uploads/33d76a9393ad098277c226d8c6130f36.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "講義棟D下",
+      "coordinates": {
+        "latitude": 35.62485558034341,
+        "longitude": 139.342717343866
+      },
+      "events": [
+        {
+          "id": "post-4965",
+          "title": "Jaclive! （Jaclaステージ）",
+          "organization": "総合音楽部Jacla",
+          "categories": [
+            "サークル・有志団体",
+            "音楽",
+            "ライブ／公演"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "講義棟D下",
+          "image": "https://koukasai.jp/2026/images/uploads/Jacla.jpg"
+        }
+      ]
+    },
+    {
+      "name": "研究棟C 421",
+      "coordinates": {
+        "latitude": 35.625169158559004,
+        "longitude": 139.34403352722063
+      },
+      "events": [
+        {
+          "id": "post-5130",
+          "title": "未来をのぞいてみよう",
+          "organization": "寺澤研究室",
+          "categories": [
+            "研究室"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日） 11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "研究棟C 421",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        },
+        {
+          "id": "post-5137",
+          "title": "サウンドデザイン",
+          "organization": "伊藤彰教研究室",
+          "categories": [
+            "研究室",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "研究棟C 321",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        },
+        {
+          "id": "post-5140",
+          "title": "AIとIoTでユニバーサル社会への貢献を目指す",
+          "organization": "坪川研究室",
+          "categories": [
+            "研究室",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-15:00｜10/12（月祝）10:00-15:00",
+          "venue": "研究棟C 216",
+          "image": "https://koukasai.jp/2026/images/uploads/f88b64fd63f7a926bbf8c49900796e82.jpg"
+        },
+        {
+          "id": "post-5144",
+          "title": "コンピュータビジュアリゼーション",
+          "organization": "竹島・戀津研究室",
+          "categories": [
+            "研究室",
+            "交流／体験",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "研究棟C 527",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "西洋庭園",
+      "coordinates": {
+        "latitude": 35.627217595950924,
+        "longitude": 139.34153646040488
+      },
+      "events": [
+        {
+          "id": "post-5663",
+          "title": "コスプレイヤー撮影",
+          "organization": "Event Layers／こすぷれたいむ",
+          "categories": [
+            "サークル・有志団体",
+            "展示／発表"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-18:00｜10/12（月祝）10:00-17:00",
+          "venue": "西洋庭園",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "模擬店Bエリア",
+      "coordinates": {
+        "latitude": 35.62570820973914,
+        "longitude": 139.3413907185733
+      },
+      "events": [
+        {
+          "id": "post-5122",
+          "title": "牛串しか勝たん！！",
+          "organization": "BSの森",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Bエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/koukasai.jpg"
+        },
+        {
+          "id": "post-5074",
+          "title": "こすたい射的場",
+          "organization": "こすぷれたいむ部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Bエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/80ae5450837fb5f8392777e980cae0e5.png"
+        }
+      ]
+    },
+    {
+      "name": "模擬店Cエリア",
+      "coordinates": {
+        "latitude": 35.625211121365865,
+        "longitude": 139.3420478597819
+      },
+      "events": [
+        {
+          "id": "post-5070",
+          "title": "はんどめい堂（ハンドメイド雑貨）",
+          "organization": "CRAFTALE",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/7022db032d5b674645ab8cf605fe1cc1.png"
+        },
+        {
+          "id": "post-5043",
+          "title": "帰ってきた筋そば！？（焼きそば）",
+          "organization": "MFC project",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/0993a55ace51adafddd318a542aa3035.jpg"
+        },
+        {
+          "id": "post-5085",
+          "title": "愛のギャンタコ（たこ焼き）",
+          "organization": "スポーツ健康学科スポーツインストラクターコース2年",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/fff6438d8e9dcd482e6dff8935f20773.jpeg"
+        },
+        {
+          "id": "post-5077",
+          "title": "牛貴族（牛串）",
+          "organization": "植物工学研究室",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/92a52f2509fa21e389d0608846fddee2.png"
+        },
+        {
+          "id": "post-5041",
+          "title": "餃子浪漫。",
+          "organization": "ちいさな雪だるま",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/eYesEoMQ.jpeg"
+        },
+        {
+          "id": "post-6109",
+          "title": "デザイナーポテト",
+          "organization": "一芋入魂",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Cエリア"
+        }
+      ]
+    },
+    {
+      "name": "模擬店Eエリア",
+      "coordinates": {
+        "latitude": 35.624722750831275,
+        "longitude": 139.3414202228718
+      },
+      "events": [
+        {
+          "id": "post-5097",
+          "title": "名画座『Churros』（チュロス）",
+          "organization": "映画研究サークル『mahoroba』",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア"
+        },
+        {
+          "id": "post-5031",
+          "title": "ぱちだ商店（フランクフルト）",
+          "organization": "専門OC",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/947b55ef449fbf0775f9cfbb20cdbc50.png"
+        },
+        {
+          "id": "post-5094",
+          "title": "縁結び焼きそば",
+          "organization": "サウンドジェネシス",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/abd1dc64df16f19819684b24d9aceb9c.jpg"
+        },
+        {
+          "id": "post-5038",
+          "title": "肉マッチョおにぎり（肉巻きおにぎり串）",
+          "organization": "ⅫMJ",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/88cb2f563595176f554d93944b03150e.png"
+        },
+        {
+          "id": "post-5067",
+          "title": "東京工科大生が本気で作った超精密チキンステーキ",
+          "organization": "映像制作サークル",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/8a654f3946815ea64116e107453c5ad6.webp"
+        },
+        {
+          "id": "post-5010",
+          "title": "POPCORN-STUDIO",
+          "organization": "映像制作サークル",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/f0cb8f6127ba3e129201cf045b392548.png"
+        },
+        {
+          "id": "post-5028",
+          "title": "KONAMON SPIKE（はしまき）",
+          "organization": "バレーボール部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/7e9209b5eabef8816b2a482ba1bc1756.png"
+        },
+        {
+          "id": "post-5114",
+          "title": "Creators（オリジナルグッズ）",
+          "organization": "創作同好会",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア"
+        },
+        {
+          "id": "post-5022",
+          "title": "ふ茶（フルーツティー）",
+          "organization": "Foods ふ",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/0a22f6975b28e048387cdc7ff8e61e3e.png"
+        },
+        {
+          "id": "post-5064",
+          "title": "あげたま（揚げたこ焼き）",
+          "organization": "剣道部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/55da556e5dce69d75714a8134e4dfd13.jpg"
+        },
+        {
+          "id": "post-5019",
+          "title": "パンタスティック！！ あげぱん",
+          "organization": "あいえすさん",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/4dc4cffbc7477c0ec5d5e2257ff073b9.jpg"
+        },
+        {
+          "id": "post-5092",
+          "title": "チョコチョコバナこ",
+          "organization": "弓道部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/01af80eb8f47c5f8facc320751b5094f.jpg"
+        },
+        {
+          "id": "post-5055",
+          "title": "射的",
+          "organization": "SSC（スポーツシューティングサークル）",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/113e50a766efc294f58b52ac35be5f49.png"
+        },
+        {
+          "id": "post-5106",
+          "title": "Wand Churros 魔法の杖チュロス",
+          "organization": "ハリーポッター・サークル",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/0097aba990fab64a44c9ec0618c390e9.jpg"
+        },
+        {
+          "id": "post-5089",
+          "title": "ワクテル モクテル（ノンアルコールカクテル）",
+          "organization": "ワンダーフォーゲル部",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/9181ed82cc09a1bb08a13b88b62feab0.jpeg"
+        },
+        {
+          "id": "post-5013",
+          "title": "餃子一筋35年",
+          "organization": "ボランティア・コネクション",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/012dd32e32a5265316305844b5a2b945.jpg"
+        },
+        {
+          "id": "post-5082",
+          "title": "海外ヌードルフライ（東南アジア焼きそば）",
+          "organization": "留学生同好会",
+          "categories": [
+            "模擬店"
+          ],
+          "dates": [
+            "10/11",
+            "10/12"
+          ],
+          "schedule": "10/11（日）11:00-17:00｜10/12（月祝）10:00-16:00",
+          "venue": "模擬店Eエリア",
+          "image": "https://koukasai.jp/2026/images/uploads/3ffcfd31442db289650a3e7d2705e5f5.jpg"
+        }
+      ]
+    }
+  ]
+}

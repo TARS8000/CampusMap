@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d5c63">
+  <title>東京工科大学 LC八王子キャンパスマップ</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="hero" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">TOKYO UNIVERSITY OF TECHNOLOGY</p>
+        <h1 id="page-title">LC八王子キャンパスマップ</h1>
+        <p class="intro">キャンパスの場所と施設を確認できる非公式マップです。詳しい情報は公式サイトをご確認ください。<br><span class="intro-links"><a href="https://www.teu.ac.jp/campus/map/index.html" target="_blank" rel="noreferrer">大学公式サイト ↗</a><a href="https://koukasai.jp/2026/" target="_blank" rel="noreferrer">紅華祭公式サイト ↗</a></span></p>
+      </div>
+      <div class="signal" aria-hidden="true"><span></span><span></span><span></span></div>
+    </section>
+
+    <section class="map-panel" aria-label="現在地マップ">
+      <div id="map" role="application" aria-label="現在地を表示する地図">
+        <div class="map-compass" aria-label="北を示すコンパス">
+          <span class="compass-north">N</span>
+          <span class="compass-arrow" aria-hidden="true"></span>
+          <span class="compass-south" aria-hidden="true">S</span>
+        </div>
+        <div class="map-overlay">
+          <span class="live-dot"></span>
+          <span id="location-label">現在地を待っています</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="campus-reference" aria-labelledby="campus-map-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">CAMPUS GUIDE</p>
+          <h2 id="campus-map-title">施設配置図</h2>
+        </div>
+        <div class="source-links">
+          <a class="source-link" href="https://www.teu.ac.jp/campus/map/index.html" target="_blank" rel="noreferrer">大学公式サイト ↗</a>
+          <a class="source-link" href="https://koukasai.jp/2026/" target="_blank" rel="noreferrer">紅華祭公式サイト ↗</a>
+        </div>
+      </div>
+      <div class="reference-layout">
+        <figure class="official-map">
+          <img src="https://www.teu.ac.jp/campus/images/2023/h_map.jpg" alt="東京工科大学 八王子キャンパスの施設配置図">
+          <div class="campus-pin-layer" aria-label="施設ピン">
+            <button class="campus-pin" style="--pin-x: 15%; --pin-y: 5%;" data-facility="体育館" aria-label="体育館を選択"><span>1</span></button>
+            <button class="campus-pin" style="--pin-x: 28%; --pin-y: 5%;" data-facility="研究棟C" aria-label="研究棟Cを選択"><span>2</span></button>
+            <button class="campus-pin" style="--pin-x: 46%; --pin-y: 7%;" data-facility="講義棟D" aria-label="講義棟Dを選択"><span>3</span></button>
+            <button class="campus-pin" style="--pin-x: 27%; --pin-y: 10%;" data-facility="実験棟A" aria-label="実験棟Aを選択"><span>4</span></button>
+            <button class="campus-pin" style="--pin-x: 32.5%; --pin-y: 16%;" data-facility="講義実験棟" aria-label="講義実験棟を選択"><span>5</span></button>
+            <button class="campus-pin" style="--pin-x: 41%; --pin-y: 16%;" data-facility="研究棟A" aria-label="研究棟Aを選択"><span>6</span></button>
+            <button class="campus-pin" style="--pin-x: 70%; --pin-y: 15%;" data-facility="メディアホール" aria-label="メディアホールを選択"><span>7</span></button>
+            <button class="campus-pin" style="--pin-x: 39%; --pin-y: 22%;" data-facility="講義棟A" aria-label="講義棟Aを選択"><span>8</span></button>
+            <button class="campus-pin" style="--pin-x: 34%; --pin-y: 25%;" data-facility="厚生棟" aria-label="厚生棟を選択"><span>9</span></button>
+            <button class="campus-pin" style="--pin-x: 55%; --pin-y: 25%;" data-facility="図書館棟" aria-label="図書館棟を選択"><span>10</span></button>
+            <button class="campus-pin" style="--pin-x: 29%; --pin-y: 38%;" data-facility="FOODS FUU" aria-label="FOODS FUUを選択"><span>11</span></button>
+            <button class="campus-pin" style="--pin-x: 64%; --pin-y: 44%;" data-facility="本部棟" aria-label="本部棟を選択"><span>12</span></button>
+            <button class="campus-pin" style="--pin-x: 57%; --pin-y: 63%;" data-facility="片柳研究所棟" aria-label="片柳研究所棟を選択"><span>13</span></button>
+          </div>
+          <figcaption id="selected-facility">ピンを選択すると施設名が表示されます</figcaption>
+        </figure>
+        <div class="facility-list">
+          <h3>主な施設</h3>
+          <ul>
+            <li><span class="facility-number">1</span>体育館</li>
+            <li><span class="facility-number">2</span>研究棟C</li>
+            <li><span class="facility-number">3</span>講義棟D</li>
+            <li><span class="facility-number">4</span>実験棟A</li>
+            <li><span class="facility-number">5</span>講義実験棟</li>
+            <li><span class="facility-number">6</span>研究棟A</li>
+            <li><span class="facility-number">7</span>メディアホール</li>
+            <li><span class="facility-number">8</span>講義棟A</li>
+            <li><span class="facility-number">9</span>厚生棟</li>
+            <li><span class="facility-number">10</span>図書館棟</li>
+            <li><span class="facility-number">11</span>FOODS FUU</li>
+            <li><span class="facility-number">12</span>本部棟</li>
+            <li><span class="facility-number">13</span>片柳研究所棟</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="event-guide" aria-labelledby="event-guide-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">KOUKASAI 2026</p>
+          <h2 id="event-guide-title">イベント一覧</h2>
+        </div>
+        <div class="source-links">
+          <a class="source-link" href="https://koukasai.jp/2026/" target="_blank" rel="noreferrer">紅華祭公式サイト ↗</a>
+          <span class="event-count-label" id="event-count-label"></span>
+        </div>
+      </div>
+      <div class="event-search" role="search">
+        <label class="sr-only" for="event-search-input">イベントを検索</label>
+        <div class="search-field">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="event-search-input" type="search" placeholder="イベント名、団体名、会場名などで検索" autocomplete="off">
+          <button id="event-search-clear" type="button" aria-label="検索をクリア" title="検索をクリア">×</button>
+        </div>
+      </div>
+      <div id="event-list" class="event-list" aria-live="polite">イベント情報を読み込んでいます。</div>
+    </section>
+
+    <section class="control-panel" aria-label="位置情報の操作">
+      <div class="status-row">
+        <div class="status-icon" aria-hidden="true">⌖</div>
+        <div>
+          <p class="status-title" id="status-title">現在地を取得できます</p>
+          <p class="status-detail" id="status-detail">ボタンを押すと位置情報の利用許可を確認します。</p>
+        </div>
+      </div>
+      <button class="location-button" id="locate-button" type="button">
+        <span class="button-icon" aria-hidden="true">◎</span>
+        <span>現在地を表示</span>
+      </button>
+      <p class="privacy-note">位置情報はこのブラウザ内でのみ使用し、保存しません。</p>
+    </section>
+  </main>
+
+  <footer>Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
