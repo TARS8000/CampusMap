@@ -164,6 +164,7 @@ function renderEventList(festivalData, query, schoolFilter, dayFilter) {
         venue.name,
         event.title,
         event.organization,
+        event.venue,
         ...(event.categories || []),
         ...(event.dates || []),
         event.schedule
@@ -188,7 +189,7 @@ function renderEventList(festivalData, query, schoolFilter, dayFilter) {
           <h3>${venue.name}</h3>
           <span>${venue.events.length}件</span>
         </div>
-        <ul>${venue.events.map((event) => `<li class="event-item">${eventImageMarkup(event, 'event-item-icon')}<span><strong>${event.title}</strong><small>${[event.organization, ...(event.categories || []), event.schedule || (event.dates || []).join('・')].filter(Boolean).join(' / ')}</small></span></li>`).join('')}</ul>
+        <ul>${venue.events.map((event) => `<li class="event-item">${eventImageMarkup(event, 'event-item-icon')}<span><strong>${event.title}</strong>${event.venue ? `<small class="event-item-place">開催場所：${event.venue}</small>` : ''}<small>${[event.organization, ...(event.categories || []), event.schedule || (event.dates || []).join('・')].filter(Boolean).join(' / ')}</small></span></li>`).join('')}</ul>
       </article>
     `).join('')
     : '<p class="event-empty">条件に一致するイベントがありません。</p>';
